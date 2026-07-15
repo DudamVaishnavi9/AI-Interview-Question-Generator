@@ -50,7 +50,7 @@ AI-Interview-Question-Generator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/AI-Interview-Question-Generator.git
+git clone https://github.com/DudamVaishnavi9/AI-Interview-Question-Generator.git
 cd AI-Interview-Question-Generator
 ```
 
